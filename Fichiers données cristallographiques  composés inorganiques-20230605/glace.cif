@@ -1,0 +1,71 @@
+data_64777
+_audit_creation_method	'Created with Diamond (www.crystalimpact.com)'
+_audit_creation_date	09-04-02
+_audit_update_record	09-04-02
+_database_code_ICSD	64777
+loop_
+_publ_author_name
+'Goto,'
+'A.;Hondoh,'
+'T.;Mae,'
+'S.,'
+
+_publ_section_title
+;
+H2 O1
+;
+_chemical_formula_sum	'H2 O1'
+_chemical_formula_structural	'H2 O'
+_chemical_name_systematic
+;
+Dihydrogen oxide - Ih
+;
+_refine_ls_R_factor_all	0.007
+_cell_length_a	 4.511(2)
+_cell_length_b	 4.511(2)
+_cell_length_c	 7.351(2)
+_cell_angle_alpha	90.000
+_cell_angle_beta	90.000
+_cell_angle_gamma	120.000
+_cell_volume	129.5
+_cell_formula_units_Z	4
+_symmetry_int_tables_number	194
+_symmetry_space_group_name_H-M	'P 63/m m c'
+_symmetry_space_group_name_Hall	'-P_6c_2c'
+
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_radius_bond
+O+0	-2.000	1.210
+H+0	1.000	-0.380
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+_atom_site_thermal_displace_type
+_atom_site_u_iso_or_equiv
+O1 O+0  0.3333  0.6667  0.0632  1.000 4 f ? d Uani ?
+H1 H+0  0.3333  0.6667  0.1730  0.500 4 f ? d Uani ?
+H2 H+0  0.4370  0.8740  0.0240  0.500 12 k ? d Uani ?
+
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1  0.0594(6)  0.0594(6)  0.0173(2)  0.0297(3)  0.00000  0.00000
+H1  0.026(10)  0.026(10)  0.009(5)  0.013(5)  0.00000  0.00000

@@ -1,0 +1,50 @@
+data_S1252286
+_audit_creation_method	'Created with Diamond (www.crystalimpact.com)'
+_audit_creation_date	09-04-02
+_audit_update_record	09-04-02
+_journal_coden_ASTM	ACACEQ
+_journal_year	1994
+_journal_volume	50
+_journal_page_first	344
+_journal_page_last	351
+_chemical_formula_sum	'C60'
+_chemical_name_mineral
+;
+fullerene high
+;
+_cell_length_a	14.2600
+_cell_length_b	14.2600
+_cell_length_c	14.2600
+_cell_angle_alpha	90.000
+_cell_angle_beta	90.000
+_cell_angle_gamma	90.000
+_cell_volume	2899.7
+_cell_formula_units_Z	4
+_symmetry_int_tables_number	202
+_symmetry_space_group_name_H-M	'F m -3'
+_symmetry_space_group_name_Hall	'-F_2_2_3'
+
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_radius_bond
+C	?	1.200
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+_atom_site_thermal_displace_type
+_atom_site_u_iso_or_equiv
+C1 C  0.0520  0.0000  0.2490 ? 48 h ? d ? ?
+C2 C  0.1050  0.0850  0.2200 ? 96 i ? d ? ?
+C3 C  0.1850  0.0520  0.1650 ? 96 i ? d ? ?
+

@@ -1,0 +1,193 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_C18825
+_audit_block_doi                 10.5517/ccsslgl
+_database_code_depnum_ccdc_archive 'CCDC 738620'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1002/chem.200901831 2009
+_audit_update_record             
+;
+2009-06-30 deposited with the CCDC.	2022-09-18 downloaded from the CCDC.
+;
+
+_audit_creation_date             2007-08-26
+_audit_creation_method           'Materials Studio'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_chemical_absolute_configuration ?
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y+1/2,-z+1/2
+-x,-y,-z
+x,-y+1/2,z+1/2
+_cell_length_a                   39.9897
+_cell_length_b                   4.9601
+_cell_length_c                   9.3538
+_cell_angle_alpha                90.0000
+_cell_angle_beta                 95.0049
+_cell_angle_gamma                90.0000
+_cell_formula_units_Z            4
+_cell_measurement_temperature    298
+_cell_volume                     1848.28
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1 C 0.46791 -1.05799 1.13066 0.00000 Uiso 1.00
+C2 C 0.45085 -0.94366 1.25739 0.00000 Uiso 1.00
+C3 C 0.41563 -1.05873 1.26819 0.00000 Uiso 1.00
+C4 C 0.39856 -0.94481 1.39555 0.00000 Uiso 1.00
+C5 C 0.36337 -1.05955 1.40802 0.00000 Uiso 1.00
+C6 C 0.34646 -0.94255 1.53524 0.00000 Uiso 1.00
+C7 C 0.31134 -1.05768 1.54936 0.00000 Uiso 1.00
+C8 C 0.29470 -0.93860 1.67658 0.00000 Uiso 1.00
+C9 C 0.25963 -1.05304 1.69255 0.00000 Uiso 1.00
+C10 C 0.24313 -0.93444 1.82046 0.00000 Uiso 1.00
+C11 C 0.20819 -1.05105 1.83678 0.00000 Uiso 1.00
+C12 C 0.19165 -0.93716 1.96579 0.00000 Uiso 1.00
+C13 C 0.15703 -1.06115 1.98083 0.00000 Uiso 1.00
+C14 C 0.13962 -0.95773 2.10973 0.00000 Uiso 1.00
+C15 C 0.10579 -1.09779 2.12065 0.00000 Uiso 1.00
+C16 C 0.08624 -1.00624 2.24562 0.00000 Uiso 1.00
+C17 C 0.05441 -1.17510 2.25158 0.00000 Uiso 1.00
+C18 C 0.03250 -1.08811 2.36993 0.00000 Uiso 1.00
+O19 O 0.00638 -1.26474 2.36718 0.00000 Uiso 1.00
+O20 O 0.03643 -0.90070 2.45206 0.00000 Uiso 1.00
+H21 H 0.45319 -1.01188 1.02840 0.00000 Uiso 1.00
+H22 H 0.47049 -1.27870 1.13905 0.00000 Uiso 1.00
+H23 H 0.49319 -0.97189 1.12575 0.00000 Uiso 1.00
+H24 H 0.44929 -0.72194 1.24786 0.00000 Uiso 1.00
+H25 H 0.46659 -0.98657 1.35776 0.00000 Uiso 1.00
+H26 H 0.41725 -1.28047 1.27766 0.00000 Uiso 1.00
+H27 H 0.39992 -1.01641 1.16768 0.00000 Uiso 1.00
+H28 H 0.39693 -0.72335 1.38506 0.00000 Uiso 1.00
+H29 H 0.41443 -0.98627 1.49587 0.00000 Uiso 1.00
+H30 H 0.36497 -1.28075 1.41914 0.00000 Uiso 1.00
+H31 H 0.34749 -1.01910 1.30767 0.00000 Uiso 1.00
+H32 H 0.34475 -0.72121 1.52394 0.00000 Uiso 1.00
+H33 H 0.36245 -0.98215 1.63531 0.00000 Uiso 1.00
+H34 H 0.31305 -1.27883 1.56127 0.00000 Uiso 1.00
+H35 H 0.29528 -1.01875 1.44928 0.00000 Uiso 1.00
+H36 H 0.29298 -0.71753 1.66433 0.00000 Uiso 1.00
+H37 H 0.31089 -0.97655 1.77650 0.00000 Uiso 1.00
+H38 H 0.26134 -1.27422 1.70458 0.00000 Uiso 1.00
+H39 H 0.24339 -1.01451 1.59292 0.00000 Uiso 1.00
+H40 H 0.24128 -0.71326 1.80847 0.00000 Uiso 1.00
+H41 H 0.25948 -0.97204 1.91995 0.00000 Uiso 1.00
+H42 H 0.21020 -1.27232 1.84785 0.00000 Uiso 1.00
+H43 H 0.19177 -1.01194 1.73765 0.00000 Uiso 1.00
+H44 H 0.18926 -0.71633 1.95500 0.00000 Uiso 1.00
+H45 H 0.20811 -0.97492 2.06483 0.00000 Uiso 1.00
+H46 H 0.15970 -1.28231 1.98946 0.00000 Uiso 1.00
+H47 H 0.14068 -1.02178 1.88157 0.00000 Uiso 1.00
+H48 H 0.13581 -0.73779 2.10007 0.00000 Uiso 1.00
+H49 H 0.15595 -0.99197 2.20954 0.00000 Uiso 1.00
+H50 H 0.11012 -1.31749 2.12968 0.00000 Uiso 1.00
+H51 H 0.08991 -1.06523 2.01943 0.00000 Uiso 1.00
+H52 H 0.07967 -0.79114 2.23169 0.00000 Uiso 1.00
+H53 H 0.10210 -1.02411 2.34781 0.00000 Uiso 1.00
+H54 H 0.06099 -1.38895 2.27062 0.00000 Uiso 1.00
+H55 H 0.03874 -1.16120 2.14868 0.00000 Uiso 1.00
+H56 H -0.00918 -1.21546 2.43725 0.00000 Uiso 1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C1 C2 1.527 .
+C1 H21 1.102 .
+C1 H22 1.102 .
+C1 H23 1.102 .
+C2 C3 1.531 .
+C2 H24 1.105 .
+C2 H25 1.104 .
+C3 C4 1.532 .
+C3 H26 1.105 .
+C3 H27 1.104 .
+C4 C5 1.532 .
+C4 H28 1.104 .
+C4 H29 1.105 .
+C5 C6 1.533 .
+C5 H30 1.103 .
+C5 H31 1.105 .
+C6 C7 1.533 .
+C6 H32 1.104 .
+C6 H33 1.104 .
+C7 C8 1.532 .
+C7 H34 1.104 .
+C7 H35 1.105 .
+C8 C9 1.532 .
+C8 H36 1.104 .
+C8 H37 1.106 .
+C9 C10 1.533 .
+C9 H38 1.104 .
+C9 H39 1.105 .
+C10 C11 1.532 .
+C10 H40 1.105 .
+C10 H41 1.105 .
+C11 C12 1.533 .
+C11 H42 1.105 .
+C11 H43 1.106 .
+C12 C13 1.533 .
+C12 H44 1.103 .
+C12 H45 1.105 .
+C13 C14 1.532 .
+C13 H46 1.104 .
+C13 H47 1.105 .
+C14 C15 1.532 .
+C14 H48 1.104 .
+C14 H49 1.105 .
+C15 C16 1.531 .
+C15 H50 1.105 .
+C15 H51 1.105 .
+C16 C17 1.529 .
+C16 H52 1.104 .
+C16 H53 1.104 .
+C17 C18 1.533 .
+C17 H54 1.104 .
+C17 H55 1.104 .
+C18 O19 1.362 .
+C18 O20 1.207 .
+O19 H56 0.974 .
+_chemical_name_systematic        'n-octadecanoic acid'
+_chemical_name_common            'stearic acid'
+_chemical_formula_moiety         'C18 H36 O2'
+_chemical_formula_sum            'C18 H36 O2'
+_chemical_formula_weight         284.48
+_chemical_compound_source        'see text'
+_chemical_properties_physical    ?
+_exptl_crystal_recrystallization_method 
+'melting and quenching in liquid nitrogen'
+_chemical_melting_point          342.4
+_exptl_crystal_description       plate
+_exptl_crystal_colour            colourless
+_diffrn_ambient_temperature      298
+_diffrn_ambient_pressure         ?
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           'Cu K\a'
+_diffrn_radiation_wavelength     1.5406
+_diffrn_source                   'sealed x-ray tube'
+_diffrn_source_type              'Inel CPS-120 diffractometer'
