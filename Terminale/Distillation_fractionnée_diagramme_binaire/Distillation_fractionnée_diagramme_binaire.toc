@@ -1,0 +1,4 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{1.Composition d'un mélange binaire}{4}{0}{1}
+\beamer@sectionintoc {2}{2.Distillation d'un mélange binaire de corps purs}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{2.1. Température de changement d'état}{4}{0}{2}
